@@ -1,2 +1,2 @@
 # hello-world
-First repositorie to lean git
+First repositorie to lean git.
